@@ -1,0 +1,1 @@
+dofile("/power/master.lua")

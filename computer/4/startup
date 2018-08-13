@@ -1,0 +1,7 @@
+function start()
+  dofile("/power/rate_count.lua")
+end
+
+while true do 
+  pcall(start)
+end

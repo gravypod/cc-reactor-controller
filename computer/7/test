@@ -1,0 +1,18 @@
+args  = {...}
+numTrees = args[1]
+
+for i=0,numTrees do
+  while not turtle.detect() do
+    turtle.forward()
+  end
+  while turtle.detect() do
+    turtle.dig()
+    turtle.digUp()
+    turtle.up()
+  end
+  while not turtle.detectDown() do
+    turtle.down()
+  end
+end
+while turtle.back() do
+end
