@@ -12,15 +12,15 @@ pile of viruses and memes I found this gem.
 
 # System Status Screen
 
-![System Status Screen](./2016-08-29_15.21.36.png) 
+![Systems](./2016-08-29_15.22.01.png) 
 
 # The "Reactors"
 
-![System Status Screen](./2016-08-29_15.21.44.png) 
+![Reactors](./2016-08-29_15.21.44.png) 
 
 # The Control Setup
 
-![The control setup](./2016-08-29_15.22.01.png) 
+![Controls](./2016-08-29_15.21.36.png) 
 
 # The Holy Master Copies
 
